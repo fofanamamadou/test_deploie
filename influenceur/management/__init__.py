@@ -1,0 +1,1 @@
+# Ce fichier permet de reconnaître le dossier management comme un package Python 
